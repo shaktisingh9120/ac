@@ -1,0 +1,7 @@
+.body{
+    margin: 0;
+    padding:0;
+}
+.fixed-top{
+     z-index: 99;
+}
